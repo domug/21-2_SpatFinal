@@ -17,7 +17,7 @@ Final project of the course "Spatio-Temporal Data Analysis" held at Yonsei unive
 ```
   proper installation of python3
 
-	# Data preprocessing
+  # Data preprocessing
   import numpy as np
   import pandas as pd
   import re
@@ -36,7 +36,7 @@ Final project of the course "Spatio-Temporal Data Analysis" held at Yonsei unive
   from pyproj import Proj, transform
   import haversine as hs
 	
-	# modeling
+  # modeling
   import pymc3 as pm
   import arviz as az
   import theano
